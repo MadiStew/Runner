@@ -1,0 +1,7 @@
+*.js.gz binary
+*.wasm.gz binary
+*.data.gz binary
+*.js.br binary
+*.wasm.br binary
+*.data.br binary
+*.unityweb binary
